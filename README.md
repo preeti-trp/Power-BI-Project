@@ -21,14 +21,37 @@ This project is a Mobile Sales Analytics dashboard built in **Power BI**. It vis
 This project helped me deepen my skills in Power BI visualization, data storytelling, and delivering business-ready insights.
 
 ## 📸 Dashboard Snapshot:
-![Dashboard Screenshot](Dashboard_Screenshots/Dashboard Page 1.png)
-![Dashboard Screenshot](Dashboard_Screenshots/MTD Report Page 2.png)
-![Dashboard Screenshot](Dashboard_Screenshots/Same Period Last Year Page 3.png)
+[Dashboard Screenshot](Dashboard_Screenshots/Dashboard Page 1.png)
+
+[Dashboard Screenshot](Dashboard_Screenshots/MTD Report Page 2.png)
+
+[Dashboard Screenshot](Dashboard_Screenshots/Same Period Last Year Page 3.png)
 
 ## 📂 Files Included:
 - `.pbix` Power BI file
 - Sample dataset (`Excel`)
 - Screenshots of the dashboard
+  
+## 📂 Files Path Structure:
+Power-BI-Project/main
+
+├── README.md
+
+├── Dashboard_Screenshots/
+
+│   └── Dashboard Page 1.png
+
+│   └── MTD Report Page 2.png
+    
+│   └── Same Period Last Year Page 3.png
+
+├── Dataset/
+
+│   └── Mobile Sales Data.xlsx 
+
+├── PBIX_Files/
+
+│   └── Mobile Sales Dashboard.pbix
 
 ## 📎 How to Use:
 1. Download the `.pbix` file
