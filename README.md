@@ -49,7 +49,7 @@ Power-BI-Project/main
 
 │   └── Mobile Sales Data.xlsx 
 
-├── PBIX_Files/
+├── PBIX_File/
 
 │   └── Mobile Sales Dashboard.pbix
 
